@@ -25,7 +25,7 @@ struct ContentView: View { // Contant View -->
                 Image("ID CARD")
                     .resizable()
                     .scaledToFit()
-                  //  .padding()
+                  // .padding()
                     .frame(width: 300, height: 190)
                     .cornerRadius(30)
                 
